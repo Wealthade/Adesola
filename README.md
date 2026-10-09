@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wealthade
+- 👋 Hi, I’m @Adesola
 - 👀 I’m interested in Data analytics,Machine learning and AI
 - 🌱 I’m currently learning more on this fields
 - 📫 Email: adebowale.adesola465@gmail.com
