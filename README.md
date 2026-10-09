@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adesola
 - 👀 I’m interested in Data analytics,Machine learning and AI
 - 🌱 I’m currently learning more on this fields
-- 📫 Email: adebowale.adesola465@gmail.com
+- 📫 Email: adesolaadebowale34@gmail.com
 
 <!---
 Wealthade/Wealthade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
